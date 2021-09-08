@@ -1,0 +1,44 @@
+{
+    "layer_1": {
+        "trait_1": 10,
+        "trait_2": 10,
+        "trait_3": 10,
+        "trait_4": 10,
+        "trait_5": 60
+    },
+    "layer_2": {
+        "trait_1": 10,
+        "trait_2": 10,
+        "trait_3": 10,
+        "trait_4": 10,
+        "trait_5": 60
+    },
+    "layer_3": {
+        "trait_1": 10,
+        "trait_2": 10,
+        "trait_3": 10,
+        "trait_4": 10,
+        "trait_5": 60
+    },
+    "layer_4": {
+        "trait_1": 10,
+        "trait_2": 10,
+        "trait_3": 10,
+        "trait_4": 10,
+        "trait_5": 60
+    },
+    "layer_5": {
+        "trait_1": 10,
+        "trait_2": 10,
+        "trait_3": 10,
+        "trait_4": 10,
+        "trait_5": 60
+    },
+    "layer_6": {
+        "trait_1": 10,
+        "trait_2": 10,
+        "trait_3": 10,
+        "trait_4": 10,
+        "trait_5": 60
+    }
+}
