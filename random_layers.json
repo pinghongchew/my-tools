@@ -7,11 +7,11 @@
         "trait_5": 60
     },
     "layer_2": {
-        "trait_1": 10,
-        "trait_2": 10,
-        "trait_3": 10,
-        "trait_4": 10,
-        "trait_5": 60
+        "trait_1": 1,
+        "trait_2": 1,
+        "trait_3": 1,
+        "trait_4": 1,
+        "trait_5": 96
     },
     "layer_3": {
         "trait_1": 10,
