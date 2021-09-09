@@ -1,8 +1,8 @@
 {
     "layer_1": {
-        "trait_1": 10,
-        "trait_2": 10,
-        "trait_3": 10,
+        "trait_1": 2,
+        "trait_2": 15,
+        "trait_3": 13,
         "trait_4": 10,
         "trait_5": 60
     },
@@ -40,5 +40,12 @@
         "trait_3": 10,
         "trait_4": 10,
         "trait_5": 60
+    },
+    "layer_7": {
+        "trait_1": 20,
+        "trait_2": 20,
+        "trait_3": 20,
+        "trait_4": 20,
+        "trait_5": 20
     }
 }

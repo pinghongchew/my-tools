@@ -31,6 +31,18 @@ for i in range(layers_count):
 with open('layers_result.txt') as file:
     lines = file.readlines()
 
+# shuffle array
+for i in range(layers_count):
+    random.shuffle(traits_list[i])
+
+print(traits_list[0])
+print(traits_list[1])
+print(traits_list[2])
+print(traits_list[3])
+print(traits_list[4])
+print(traits_list[5])
+print(traits_list[6])
+
 # iterate for items
 for i in range(max_items):
     layers_result = ''
@@ -38,6 +50,7 @@ for i in range(max_items):
     # generate random number base on layers, eg: 7,7,9,4,3
     for j in range(layers_count):
         random_number = random.randint(0, 99)
+        # random_number = round(random.uniform(0, 99))
         if j == layers_count - 1:
             layers_result += str(traits_list[j][random_number]) + '\n'
         else: 
